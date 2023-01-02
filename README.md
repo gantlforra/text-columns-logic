@@ -1,2 +1,2 @@
 # text-columns-logic
-Fetch rows of Phrases from the url.
+Fetch **rows of phrases** from the url.
